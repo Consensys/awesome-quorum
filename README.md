@@ -31,7 +31,7 @@ ConsenSys Quorum is a foundational open-source protocol layer that enables Enter
   - [Meetups](#meetups)
   - [Events Calendar](#events-calendar)
   - [Developer Forums](#developer-forums)
-- [Instructional Resources](#instructional-resources)
+- [Educational Resources](#educational-resources)
   - [Articles](#articles)
   - [Webinars](#webinars)
   - [Videos](#videos)
@@ -85,7 +85,7 @@ ConsenSys Quorum is a foundational open-source protocol layer that enables Enter
 
 ### Developer Forums
 
-## Instructional Resources
+## Educational Resources
 
 ### Articles
 
