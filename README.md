@@ -55,6 +55,10 @@ ConsenSys Quorum is a foundational open-source protocol layer that enables Enter
 - [Tessera](https://github.com/ConsenSys/tessera) - Stateless Java system enabling encryption, decryption, and distribution of private transactions for Quorum
 - [Orion](https://github.com/ConsenSys/orion) - Private transaction manager developed under the Apache 2.0 license and written in Java
 
+### Private Key Manager
+
+- [EthSigner](https://github.com/ConsenSys/ethsigner) - Transaction signing application to be used with a web3 provider
+
 ### Plugins
 
 - [Quorum Plugin Definitions](https://github.com/ConsenSys/quorum-plugin-definitions) - Extends Quorum functionality with gRPC based plugin API. Contains protobuf files defining plugin interfaces (e.g. Account plugin, Security plugin...)
@@ -78,7 +82,11 @@ ConsenSys Quorum is a foundational open-source protocol layer that enables Enter
 
 ### Testing
 
+- [GoQuorum Acceptance Test](https://github.com/ConsenSys/quorum-acceptance-tests) - Acceptance Tests for GoQuorum
+
 ### Performances
+
+- [Quorum Profiling](https://github.com/ConsenSys/quorum-profiling) - Toolset built for the purpose of running stress tests on networks running on Quorum and measure/monitor the TPS and other benchmarking parameters at network level
 
 ## Deployment
 
