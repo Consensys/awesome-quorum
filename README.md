@@ -103,13 +103,22 @@ ConsenSys Quorum is a foundational open-source protocol layer that enables Enter
 
 ### Cloud
 
-- [Quorum AWS](https://github.com/ConsenSys/quorum-aws) - Tools to deploy Quorum networks to AWSusing Docker and Terraform
+- [Quorum AWS](https://github.com/ConsenSys/quorum-aws) - Tools to deploy Quorum networks to AWS using Docker and Terraform
 
 ## Documentations
 
 ### Products
 
+- [GoQuorum doc](https://docs.goquorum.consensys.net)
+- [Orion doc](https://docs.orion.consensys.net)
+- [Tessera doc](https://docs.tessera.consensys.net)
+- [EthSigner doc](https://docs.ethsigner.consensys.net)
+- [Orchestrate doc](https://docs.orchestrate.consensys.net)
+
 ### Specifications
+
+- [BFT specifications](https://github.com/ConsenSys/quorum-ibft) - Paper describing the BFT Consensus Algorithm, a simple and elegant algorithm for Byzantine fault-tolerant consensus and is used to implement state machine replication in the Quorum blockchain
+- [RAFT specifications](https://raft.github.io/raft.pdf) - Paper describing the RAFT algorithm used by GoQuorum
 
 ## Community
 
