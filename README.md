@@ -47,6 +47,9 @@ ConsenSys Quorum is a foundational open-source protocol layer that enables Enter
 
 ### Enterprise Ethereum Client
 
+- [GoQuorum](https://github.com/ConsenSys/quorum) - Enterprise Ethereum client, fork of Go-Ethereum (aka Geth), compatible with permissioned networks and widely used in production
+- [Hyperledger Besu](https://github.com/hyperledger/besu) - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
+
 ### Private Transaction Manager
 
 ### Plugins
