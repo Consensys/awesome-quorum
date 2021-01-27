@@ -70,6 +70,12 @@ ConsenSys Quorum is a foundational open-source protocol layer that enables Enter
 
 ### Tools
 
+- [Cakeshop](https://github.com/ConsenSys/cakeshop) - Set of tools and APIs for working with Ethereum-like ledgers, packaged as a Java web application archive
+- [Quorum Remix](https://github.com/ConsenSys/quorum-remix) - Quorum plugin for Ethereum's Remix IDE adds support for creating and interacting with private contracts on a Quorum network
+- [Quorum reporting](https://github.com/ConsenSys/quorum-reporting) - Tool that indexes blocks and transactions in a Quorum network and generates reports to give users insights into what is happening with their contracts
+- [Besu permissioning dApp](https://github.com/ConsenSys/permissioning-smart-contracts) - Facilitate managing permissioning rules and maintaining the list of admin accounts that can edit rules
+- [Istanbul Tools](https://github.com/ConsenSys/istanbul-tools) - Tools for configuring Istanbul BFT (IBFT) network
+
 ### Testing
 
 ### Performances
