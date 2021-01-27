@@ -92,9 +92,18 @@ ConsenSys Quorum is a foundational open-source protocol layer that enables Enter
 
 ### Sandbox
 
+- [Quorum-Wizard](https://github.com/ConsenSys/quorum-wizard) - A command line tool that allow users to set up a development Quorum network on their local machine in less than 2 minutes
+- [Quorum-Dev-Quickstart](https://github.com/ConsenSys/quorum-dev-quickstart) - A command line tool that allow users to set up a development Quorum network on their local machine in less than 2 minutes
+- [Quorum Examples](https://github.com/ConsenSys/quorum-examples) - Setup examples to start a fully-functioning Quorum environment consisting of 7 independent nodes allowing to test consensus, privacy, and all the expected functionality of an Quorum platform
+
 ### Kubernetes
 
+- [qubernetes](https://github.com/ConsenSys/qubernetes) - Generates the necessary Quorum resources (keys, configs - genesis, istanbul, etc.) and Kubernetes API resource yaml for a configurable Quorum Network
+- [Quorum Kubernetes](https://github.com/ConsenSys/quorum-kubernetes) - Example reference implementations of private networks using k8s, intended for developers and ops to get familiar with private ethereum network in k8s
+
 ### Cloud
+
+- [Quorum AWS](https://github.com/ConsenSys/quorum-aws) - Tools to deploy Quorum networks to AWSusing Docker and Terraform
 
 ## Documentations
 
