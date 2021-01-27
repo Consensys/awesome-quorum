@@ -117,6 +117,7 @@ ConsenSys Quorum is a foundational open-source protocol layer that enables Enter
 
 ### Specifications
 
+- [EEA Technical specifications](https://entethalliance.org/technical-specifications/) - EEA’s world-class specifications and forth-coming testing and certification programs helps ensurnig interoperability between software components from multiple vendors
 - [BFT specifications](https://github.com/ConsenSys/quorum-ibft) - Paper describing the BFT Consensus Algorithm, a simple and elegant algorithm for Byzantine fault-tolerant consensus and is used to implement state machine replication in the Quorum blockchain
 - [RAFT specifications](https://raft.github.io/raft.pdf) - Paper describing the RAFT algorithm used by GoQuorum
 
