@@ -52,6 +52,9 @@ ConsenSys Quorum is a foundational open-source protocol layer that enables Enter
 
 ### Private Transaction Manager
 
+- [Tessera](https://github.com/ConsenSys/tessera) - Stateless Java system enabling encryption, decryption, and distribution of private transactions for Quorum
+- [Orion](https://github.com/ConsenSys/orion) - Private transaction manager developed under the Apache 2.0 license and written in Java
+
 ### Plugins
 
 ### Libraries
