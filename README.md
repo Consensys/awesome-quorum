@@ -124,6 +124,8 @@ ConsenSys Quorum is a foundational open-source protocol layer that enables Enter
 
 ### Wikis
 
+- [Hyperledger wiki](https://wiki.hyperledger.org/) - Hyperledger is an open source collaborative effort created to advance cross-industry blockchain technologies. It is a global collaboration, hosted by The Linux Foundation, including leaders in finance, banking, IoT, supply chain, manufacturing and technology
+
 ### Chats
 
 ### Meetups
