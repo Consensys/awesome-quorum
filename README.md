@@ -65,6 +65,9 @@ ConsenSys Quorum is a foundational open-source protocol layer that enables Enter
 
 ### Libraries
 
+- [quorumjs](https://github.com/ConsenSys/quorum.js) - Extension for web3.js which adds support for APIs specific to Quorum
+- [web3js-eea](https://github.com/ConsenSys/web3js-eea) - Extension for web3.js which adds support for Besu private transaction and privacy group management
+
 ### Tools
 
 ### Testing
