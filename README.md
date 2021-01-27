@@ -57,6 +57,12 @@ ConsenSys Quorum is a foundational open-source protocol layer that enables Enter
 
 ### Plugins
 
+- [Quorum Plugin Definitions](https://github.com/ConsenSys/quorum-plugin-definitions) - Extends Quorum functionality with gRPC based plugin API. Contains protobuf files defining plugin interfaces (e.g. Account plugin, Security plugin...)
+- [Quorum Hashicorp Account Plugin](https://github.com/ConsenSys/quorum-account-plugin-hashicorp-vault) - Plugin enabling storage of Quorum account private keys in a Hashicorp Vault KV v2 secret engine.
+- [Quorum Security Plugin](https://github.com/ConsenSys/quorum-security-plugin-enterprise) - Plugin enabling securing JSON-RPC server endpoints by adding TLS and support for OAuth2 based authentication
+- [Besu Plugins](https://github.com/ConsenSys/besu-plugins/) - Extends Hyperledger Besu functionality using Java based plugin API to retrieve data from any Besu network, public or permissioned and feed it into an application or system
+- [Besu Event Stream](https://github.com/ConsenSys/besu-plugins/tree/master/event-stream) - Besu plugin listening to events occurring on Ethereum network and broadcasting them to Kafka
+
 ### Libraries
 
 ### Tools
