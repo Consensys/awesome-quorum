@@ -71,6 +71,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 - [quorumjs](https://github.com/ConsenSys/quorum.js) - Extension for web3.js which adds support for APIs specific to Quorum
 - [web3js-eea](https://github.com/ConsenSys/web3js-eea) - Extension for web3.js which adds support for Besu private transaction and privacy group management
+- [web3j-quorum](https://github.com/web3j/web3j-quorum) - An extension to web3j providing support for Quorum APIs
 
 ### Tools
 
@@ -122,6 +123,10 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [RAFT specifications](https://raft.github.io/raft.pdf) - Paper describing the RAFT algorithm used by GoQuorum
 
 ## Community
+
+### Website
+
+- [ConsenSys Quorum](https://consensys.net/quorum)
 
 ### Wikis
 
