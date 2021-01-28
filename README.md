@@ -147,7 +147,16 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Articles
 
+- [December 2020 - A Year in Review: ConsenSys Quorum Highlights](https://consensys.net/blog/quorum/a-year-in-review-consensys-quorum-highlights/)
+- [November 2020 - ConsenSys Quorum Product Update: Bundles, Support and Leading Features](https://consensys.net/blog/news/consensys-quorum-november-2020-product-update-bundles-support-and-leading-features/)
+- [October 2020 - ConsenSys Quorum is moving to Calendar Versioning](https://consensys.net/blog/news/consensys-quorum-is-moving-to-calendar-versioning/)
+- [August 2020 - ConsenSys acquires JPM Quorum](https://consensys.net/blog/news/consensys-acquires-jpm-quorum/)
+- [January 2020 - EEA Testnet launch](https://consensys.net/blog/enterprise-blockchain/what-the-eea-testnet-launch-means-for-blockchain-and-enterprise/)
+
 ### Webinars
+
+- [Getting Started With ConsenSys Quorum](https://pages.consensys.net/getting-started-with-consensys-quorum)
+- [Introducting ConsenSys Quorum](https://pages.consensys.net/introducing-consensys-quorum)
 
 ### Videos
 
