@@ -147,6 +147,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Articles
 
+- [January 2021 - ConsenSys Quorum available on China blockchain services](https://consensys.net/blog/press-release/consensys-announces-partnership-with-chinas-blockchain-services-network/)
 - [December 2020 - A Year in Review: ConsenSys Quorum Highlights](https://consensys.net/blog/quorum/a-year-in-review-consensys-quorum-highlights/)
 - [November 2020 - ConsenSys Quorum Product Update: Bundles, Support and Leading Features](https://consensys.net/blog/news/consensys-quorum-november-2020-product-update-bundles-support-and-leading-features/)
 - [October 2020 - ConsenSys Quorum is moving to Calendar Versioning](https://consensys.net/blog/news/consensys-quorum-is-moving-to-calendar-versioning/)
@@ -155,6 +156,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Webinars
 
+- [Web3j and ConsenSys Quorum](https://pages.consensys.net/web3j-and-consensys-quorum)
 - [Getting Started With ConsenSys Quorum](https://pages.consensys.net/getting-started-with-consensys-quorum)
 - [Introducting ConsenSys Quorum](https://pages.consensys.net/introducing-consensys-quorum)
 
