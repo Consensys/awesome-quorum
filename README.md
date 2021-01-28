@@ -129,6 +129,9 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Chats
 
+- [Quorum discord](https://discord.gg/kEJYV8XQuH)
+- [GoQuorum Slack](https://inviter.quorum.consensys.net/)
+
 ### Meetups
 
 ### Events Calendar
