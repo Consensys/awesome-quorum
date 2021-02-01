@@ -58,6 +58,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Private Key Manager
 
 - [EthSigner](https://github.com/ConsenSys/ethsigner) - Transaction signing application to be used with a web3 provider
+- [Quorum Signer Hashicorp](https://github.com/ConsenSys/quorum-signer-plugin-for-hashicorp-vault) -  Custom plugin backend for Hashicorp Vault adding a new `quorum-signer` secret-engine to Hashicorp Vault
 
 ### Plugins
 
