@@ -144,6 +144,8 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Developer Forums
 
+### Ambassador Program
+
 ## Educational Resources
 
 ### Articles
@@ -166,8 +168,6 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ## Contribute
 
 ### Contribution guidelines
-
-### Ambassador Program
 
 ## Built on Quorum
 
