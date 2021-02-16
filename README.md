@@ -29,8 +29,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Community](#community)
   - [Wikis](#wikis)
   - [Chats](#chats)
-  - [Meetups](#meetups)
-  - [Events Calendar](#events-calendar)
+  - [Events](#events)
   - [Developer Forums](#developer-forums)
   - [Ambassador Program](#ambassador-program)
 - [Educational Resources](#educational-resources)
@@ -138,9 +137,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Quorum discord](https://discord.gg/kEJYV8XQuH)
 - [GoQuorum Slack](https://inviter.quorum.consensys.net/)
 
-### Meetups
-
-### Events Calendar
+### Events
 
 ### Developer Forums
 
