@@ -26,6 +26,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Documentations](#documentations)
   - [Products](#products)
   - [Specifications](#specifications)
+- [Contribute](#contribute)  
 - [Community](#community)
   - [Wikis](#wikis)
   - [Chats](#chats)
@@ -36,11 +37,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
   - [Articles](#articles)
   - [Webinars](#webinars)
   - [Videos](#videos)
-- [Contribute](#contribute)  
 - [Built on Quorum](#built-on-quorum)
-  - [Ecosystem directory](#ecosystem-directory)
-  - [Enterprise use cases](#enterprise-use-cases)
-  - [Third party tools, platform, projects](#third-party-tools-platform-projects)
 
 ## Sofware components
 
@@ -122,6 +119,11 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [BFT specifications](https://github.com/ConsenSys/quorum-ibft) - Paper describing the BFT Consensus Algorithm, a simple and elegant algorithm for Byzantine fault-tolerant consensus and is used to implement state machine replication in the Quorum blockchain
 - [RAFT specifications](https://raft.github.io/raft.pdf) - Paper describing the RAFT algorithm used by GoQuorum
 
+## Contribute
+
+- [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md)
+- [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md)
+
 ## Community
 
 ### Website
@@ -167,15 +169,4 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Videos
 
-## Contribute
-
-- [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md)
-- [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md)
-
 ## Built on Quorum
-
-### Ecosystem directory
-
-### Enterprise use cases
-
-### Third party tools, platform, projects
