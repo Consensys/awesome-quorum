@@ -141,6 +141,11 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Developer Forums
 
+- [Stack Overflow Quorum](https://stackoverflow.com/questions/tagged/quorum)
+- [Stack Overflow Besu](https://stackoverflow.com/search?q=hyperledger+besu)
+- [Stack Exchange Quorum](https://ethereum.stackexchange.com/questions/tagged/quorum)
+- [Stack Exchange Besu](https://ethereum.stackexchange.com/questions/tagged/besu)
+
 ### Ambassador Program
 
 ## Educational Resources
