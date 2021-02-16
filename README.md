@@ -167,7 +167,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ## Contribute
 
-### Contribution guidelines
+- [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md)
 
 ## Built on Quorum
 
