@@ -125,7 +125,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Products
 
-- [GoQuorum whitepaper](https://github.com/ConsenSys/quorum/blob/master/docs/Quorum%20Whitepaper%20v0.2.pdf)
+- [Besu docs](https://besu.hyperledger.org/en/stable/)
 - [GoQuorum docs](https://docs.goquorum.consensys.net)
 - [Orion docs](https://docs.orion.consensys.net)
 - [Tessera docs](https://docs.tessera.consensys.net)
@@ -134,6 +134,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Specifications
 
+- [GoQuorum whitepaper](https://github.com/ConsenSys/quorum/blob/master/docs/Quorum%20Whitepaper%20v0.2.pdf)
 - [EEA Technical specifications](https://entethalliance.org/technical-specifications/) - EEA’s world-class specifications and forth-coming testing and certification programs helps ensuring interoperability between software components from multiple vendors
 - [BFT specifications](https://github.com/ConsenSys/quorum-ibft) - Paper describing the BFT Consensus Algorithm, a simple and elegant algorithm for Byzantine fault-tolerant consensus and is used to implement state machine replication in the Quorum blockchain
 - [RAFT specifications](https://raft.github.io/raft.pdf) - Paper describing the [RAFT algorithm](https://raft.github.io/) used by GoQuorum
