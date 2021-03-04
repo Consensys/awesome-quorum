@@ -10,7 +10,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ## Contents
 
-- [Sofware components](#sofware-components)
+- [Software components](#software-components)
   - [Enterprise Ethereum Clients](#enterprise-ethereum-client)
   - [Private Transaction Manager](#private-transaction-manager)
   - [Private Key Mangager](#private-key-manager)
@@ -39,7 +39,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
   - [Videos](#videos)
 - [Built on Quorum](#built-on-quorum)
 
-## Sofware components
+## Software components
 
 ### Enterprise Ethereum Client
 
@@ -61,6 +61,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Quorum Plugin Definitions](https://github.com/ConsenSys/quorum-plugin-definitions) - Extends Quorum functionality with gRPC based plugin API. Contains protobuf files defining plugin interfaces (e.g. Account plugin, Security plugin...)
 - [Quorum Hashicorp Account Plugin](https://github.com/ConsenSys/quorum-account-plugin-hashicorp-vault) - Plugin enabling storage of Quorum account private keys in a Hashicorp Vault KV v2 secret engine.
 - [Quorum Security Plugin](https://github.com/ConsenSys/quorum-security-plugin-enterprise) - Plugin enabling securing JSON-RPC server endpoints by adding TLS and support for OAuth2 based authentication
+- [Quorum Remix IDE Plugin](https://github.com/ConsenSys/quorum-remix) - The Quorum plugin for Ethereum's Remix IDE adds support for creating and interacting with private contracts on a Quorum network.
 - [Besu Plugins](https://github.com/ConsenSys/besu-plugins/) - Extends Hyperledger Besu functionality using Java based plugin API to retrieve data from any Besu network, public or permissioned and feed it into an application or system
 - [Besu Event Stream](https://github.com/ConsenSys/besu-plugins/tree/master/event-stream) - Besu plugin listening to events occurring on Ethereum network and broadcasting them to Kafka
 
@@ -69,6 +70,12 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [quorumjs](https://github.com/ConsenSys/quorum.js) - Extension for web3.js which adds support for APIs specific to Quorum
 - [web3js-eea](https://github.com/ConsenSys/web3js-eea) - Extension for web3.js which adds support for Besu private transaction and privacy group management
 - [web3j-quorum](https://github.com/web3j/web3j-quorum) - An extension to web3j providing support for Quorum APIs
+- [Truffle with Quorum](https://www.trufflesuite.com/docs/truffle/distributed-ledger-support/working-with-quorum) - Truffle supports development with Quorum, a version of Ethereum that adds new features on top of what Ethereum already provides
+- [Nethereum](https://docs.nethereum.com/en/latest/ethereum-and-clients/quorum/) - Nethereum is the .Net integration library for Ethereum, simplifying smart contract management and interaction with Ethereum nodes whether they are public, like Geth , Parity or private, like Quorum and Besu.
+
+### Interoperability 
+- [Cordage](https://github.com/LayerXcom/cordage) - Cordage makes the interoperability possible from Corda to Quorum and Hyperledger Besu by providing several modules that propagate, pull and verify information between Blockchains without further trusted third party.
+- [Wanchain](https://github.com/wanchain/T-Bridge-Contracts) - Wanchain Trust Bridge currently provides a reference implementation to connect Wanchain to a private blockchain built with Hyperledger Besu originally from Consensys. 
 
 ### Tools
 
@@ -77,6 +84,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Quorum reporting](https://github.com/ConsenSys/quorum-reporting) - Tool that indexes blocks and transactions in a Quorum network and generates reports to give users insights into what is happening with their contracts
 - [Besu permissioning dApp](https://github.com/ConsenSys/permissioning-smart-contracts) - Facilitate managing permissioning rules and maintaining the list of admin accounts that can edit rules
 - [Istanbul Tools](https://github.com/ConsenSys/istanbul-tools) - Tools for configuring Istanbul BFT (IBFT) network
+- [Quorum-Splunk](https://www.splunk.com/en_us/blog/it/introducing-splunk-app-for-quorum.html) - Using Splunk for quorum blockchain analytics and dashboards
 
 ### Testing
 
@@ -90,9 +98,15 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Sandbox
 
+- [Quorum-Dev-Quickstart](https://github.com/ConsenSys/quorum-dev-quickstart) - Deploy up a ConsenSys Quorum network on your local machine from the command line in only a few minutes
 - [Quorum-Wizard](https://github.com/ConsenSys/quorum-wizard) - A command line tool that allow users to set up a development Quorum network on their local machine in less than 2 minutes
-- [Quorum-Dev-Quickstart](https://github.com/ConsenSys/quorum-dev-quickstart) - A command line tool that allow users to set up a development Quorum network on their local machine in less than 2 minutes
 - [Quorum Examples](https://github.com/ConsenSys/quorum-examples) - Setup examples to start a fully-functioning Quorum environment consisting of 7 independent nodes allowing to test consensus, privacy, and all the expected functionality of an Quorum platform
+- [Quorum Network Manager (deprecated)](https://github.com/ConsenSys/QuorumNetworkManager) - basic way for originally getting started with a quorum network
+- [Quorum Maker](https://github.com/synechron-finlabs/quorum-maker) - Synechron's Quorum Maker is a tool that allows users to create and manage Quorum network
+- [Epirus Free - Blockchain Explorer](https://github.com/web3labs/epirus-free) - This dockerized environment is designed for viewing private Quorum, Pantheon and Ethereum networks.
+- [Greenhouse by BlockTEST](https://greenhouse.blocktest.com/home) - an integrated toolbox for blockchain DevOps, an automated middleware development platform as a service, so that you can build blockchain applications in a streamlined way and on consistent sets of architectural plumbing principles
+- [Platform6](https://platform6.io/) - provides all the off-chain features and services required to develop, package and run enterprise-class decentralized applications for Besu and GoQuorum.
+- [Tubu.io](https://www.tubu.io/) - create and manage ConsenSys Quorum/ private blockchain applications  
 
 ### Kubernetes
 
@@ -102,22 +116,27 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Cloud
 
 - [Quorum AWS](https://github.com/ConsenSys/quorum-aws) - Tools to deploy Quorum networks to AWS using Docker and Terraform
+- [Azure Blockchain Service](https://docs.microsoft.com/en-us/azure/blockchain/service/develop) - create consortium blockchain networks to enable enterprise scenarios like asset tracking, digital token, loyalty and reward, supply chain financial, and provenance.
+- [SAP Cloud Platform](https://blogs.sap.com/2019/01/11/quorum-on-sap-cloud-platform/) - now offers a free-of-charge “dev” service plan for developers to build with Quorum in a playground environment. The plan offers Quorum instances that are shared with other developers.
+- [Chainstack](https://chainstack.com/) - Managed blockchain services making it simple to launch and scale decentralized networks and applications for ConsenSys Quorum
+- [Blockdaemon](https://app.blockdaemon.com/marketplace) - Infrastructure and testing provider where you can deploy ConsenSys Quorum in a few steps, decentralize your infrastructure with multiple cloud providers, white-label your own control panel and integrate existing systems or APIs.
 
-## Documentations
+## Documentation
 
 ### Products
 
-- [GoQuorum doc](https://docs.goquorum.consensys.net)
-- [Orion doc](https://docs.orion.consensys.net)
-- [Tessera doc](https://docs.tessera.consensys.net)
-- [EthSigner doc](https://docs.ethsigner.consensys.net)
-- [Orchestrate doc](https://docs.orchestrate.consensys.net)
+- [GoQuorum whitepaper](https://github.com/ConsenSys/quorum/blob/master/docs/Quorum%20Whitepaper%20v0.2.pdf)
+- [GoQuorum docs](https://docs.goquorum.consensys.net)
+- [Orion docs](https://docs.orion.consensys.net)
+- [Tessera docs](https://docs.tessera.consensys.net)
+- [EthSigner docs](https://docs.ethsigner.consensys.net)
+- [Orchestrate docs](https://docs.orchestrate.consensys.net)
 
 ### Specifications
 
-- [EEA Technical specifications](https://entethalliance.org/technical-specifications/) - EEA’s world-class specifications and forth-coming testing and certification programs helps ensurnig interoperability between software components from multiple vendors
+- [EEA Technical specifications](https://entethalliance.org/technical-specifications/) - EEA’s world-class specifications and forth-coming testing and certification programs helps ensuring interoperability between software components from multiple vendors
 - [BFT specifications](https://github.com/ConsenSys/quorum-ibft) - Paper describing the BFT Consensus Algorithm, a simple and elegant algorithm for Byzantine fault-tolerant consensus and is used to implement state machine replication in the Quorum blockchain
-- [RAFT specifications](https://raft.github.io/raft.pdf) - Paper describing the RAFT algorithm used by GoQuorum
+- [RAFT specifications](https://raft.github.io/raft.pdf) - Paper describing the [RAFT algorithm](https://raft.github.io/) used by GoQuorum
 
 ## Contribute
 
@@ -133,13 +152,17 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Wikis
 
 - [Hyperledger wiki](https://wiki.hyperledger.org/) - Hyperledger is an open source collaborative effort created to advance cross-industry blockchain technologies. It is a global collaboration, hosted by The Linux Foundation, including leaders in finance, banking, IoT, supply chain, manufacturing and technology
+- [GoQuorum Wiki](https://github.com/ConsenSys/quorum/wiki)
 
 ### Chats
 
-- [Quorum discord](https://discord.gg/kEJYV8XQuH)
-- [GoQuorum Slack](https://inviter.quorum.consensys.net/)
+- [Discord](https://bit.ly/ConsenSysQuorumDiscord)
+  - [Slack - GoQuorum](https://inviter.quorum.consensys.net/)
+  - [Rocketchat - Hyperledger Besu](http://chat.hyperledger.org/)
 
 ### Events
+- [ConsenSys Quorum Event Calendar]
+- [Hyperledger Besu Event Calendar]
 
 ### Developer Forums
 
@@ -149,24 +172,32 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Stack Exchange Besu](https://ethereum.stackexchange.com/questions/tagged/besu)
 
 ### Ambassador Program
+- [Apply to be a ConsenSys Quorum Ambassador!](https://bit.ly/ConsenSysAmbassadorApp)
 
 ## Educational Resources
+- [Quorum Workshop - MLH](https://github.com/dyelax/quorum-workshop)
+- [Quorum Workshop - Blockmatics](https://blockmatics.teachable.com/p/quorum-blockchain-developer-course)
+- [Blockgeeks Guide: Overview of GoQuorum](https://blockgeeks.com/guides/quorum-a-blockchain-platform-for-the-enterprise/)
+- [B9Lab - Quorum Specialization Course](https://academy.b9lab.com/courses/course-v1:B9lab+QSE-X+2018-04/about)
 
 ### Articles
 
-- [January 2021 - ConsenSys Quorum available on China blockchain services](https://consensys.net/blog/press-release/consensys-announces-partnership-with-chinas-blockchain-services-network/)
-- [December 2020 - A Year in Review: ConsenSys Quorum Highlights](https://consensys.net/blog/quorum/a-year-in-review-consensys-quorum-highlights/)
-- [November 2020 - ConsenSys Quorum Product Update: Bundles, Support and Leading Features](https://consensys.net/blog/news/consensys-quorum-november-2020-product-update-bundles-support-and-leading-features/)
-- [October 2020 - ConsenSys Quorum is moving to Calendar Versioning](https://consensys.net/blog/news/consensys-quorum-is-moving-to-calendar-versioning/)
-- [August 2020 - ConsenSys acquires JPM Quorum](https://consensys.net/blog/news/consensys-acquires-jpm-quorum/)
-- [January 2020 - EEA Testnet launch](https://consensys.net/blog/enterprise-blockchain/what-the-eea-testnet-launch-means-for-blockchain-and-enterprise/)
-
-### Webinars
-
-- [Web3j and ConsenSys Quorum](https://pages.consensys.net/web3j-and-consensys-quorum)
-- [Getting Started With ConsenSys Quorum](https://pages.consensys.net/getting-started-with-consensys-quorum)
-- [Introducting ConsenSys Quorum](https://pages.consensys.net/introducing-consensys-quorum)
+- [50+ Projects Building on J.P. Morgan's Quorum Blockchain](https://medium.com/@mateo_ventures/heres-who-s-building-on-quorum-see-the-list-b18d65aa0a2c)
+- [ConsenSys Quorum available on China blockchain services](https://consensys.net/blog/press-release/consensys-announces-partnership-with-chinas-blockchain-services-network/)
+- [A Year in Review: ConsenSys Quorum Highlights](https://consensys.net/blog/quorum/a-year-in-review-consensys-quorum-highlights/)
+- [ConsenSys Quorum Product Update: Bundles, Support and Leading Features](https://consensys.net/blog/news/consensys-quorum-november-2020-product-update-bundles-support-and-leading-features/)
+- [ConsenSys Quorum is moving to Calendar Versioning](https://consensys.net/blog/news/consensys-quorum-is-moving-to-calendar-versioning/)
+- [ConsenSys acquires JPM Quorum](https://consensys.net/blog/news/consensys-acquires-jpm-quorum/)
+- [EEA Testnet launch](https://consensys.net/blog/enterprise-blockchain/what-the-eea-testnet-launch-means-for-blockchain-and-enterprise/)
 
 ### Videos
 
-## Built on Quorum
+- [Introducting ConsenSys Quorum](https://youtu.be/ItKg3P2Kmhs)
+- [Getting Started with ConsenSys Quorum](https://youtu.be/CY2XOcnkV9o)
+- [Web3j and ConsenSys Quorum](https://youtu.be/EC7PQtLvc2I)
+- [Connecting Hyperledger Besu to Enterprise](https://youtu.be/93Mbdh4BvdM)
+- [Using Quorum Remix IDE Extension](https://youtu.be/lT5y4hQLwUQ)
+- [Quorum Features on Chainstack Demo](https://youtu.be/QPtqk3yPQK8)
+- [Splunking with Quorum](https://youtu.be/Fo2qaEn1_BQ)
+
+### Use-Cases
