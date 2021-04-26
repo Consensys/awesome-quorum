@@ -85,6 +85,8 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Besu permissioning dApp](https://github.com/ConsenSys/permissioning-smart-contracts) - Facilitate managing permissioning rules and maintaining the list of admin accounts that can edit rules
 - [Istanbul Tools](https://github.com/ConsenSys/istanbul-tools) - Tools for configuring Istanbul BFT (IBFT) network
 - [Quorum-Splunk](https://www.splunk.com/en_us/blog/it/introducing-splunk-app-for-quorum.html) - Using Splunk for quorum blockchain analytics and dashboards
+- [Mirror Besu](https://www.npmjs.com/package/mirror-besu) - compiling, testing and deployment for Hyperledger Besu, aiming to make life as an Enterprise Ethereum developer easier.
+- [Ethernal](https://tryethernal.com/) - Block explorer for private EVM-based chains.
 
 ### Testing
 
@@ -103,6 +105,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Quorum Examples](https://github.com/ConsenSys/quorum-examples) - Setup examples to start a fully-functioning Quorum environment consisting of 7 independent nodes allowing to test consensus, privacy, and all the expected functionality of an Quorum platform
 - [Quorum Network Manager (deprecated)](https://github.com/ConsenSys/QuorumNetworkManager) - basic way for originally getting started with a quorum network
 - [Quorum Maker](https://github.com/synechron-finlabs/quorum-maker) - Synechron's Quorum Maker is a tool that allows users to create and manage Quorum network
+- [Besu Truffle Box](https://www.trufflesuite.com/boxes/besu-box) - Truffle Box Creating API Endpoints for Hyperledger Besu network.
 - [Epirus Free - Blockchain Explorer](https://github.com/web3labs/epirus-free) - This dockerized environment is designed for viewing private Quorum, Pantheon and Ethereum networks.
 - [Greenhouse by BlockTEST](https://greenhouse.blocktest.com/home) - an integrated toolbox for blockchain DevOps, an automated middleware development platform as a service, so that you can build blockchain applications in a streamlined way and on consistent sets of architectural plumbing principles
 - [Platform6](https://platform6.io/) - provides all the off-chain features and services required to develop, package and run enterprise-class decentralized applications for Besu and GoQuorum.
