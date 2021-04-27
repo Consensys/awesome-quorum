@@ -118,6 +118,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Cloud
 
+- [Quorum Terraform Provider](https://registry.terraform.io/providers/ConsenSys/quorum/latest) - The Quorum provider is used to bootstrap various resources required to create a running Quorum Network
 - [Quorum AWS](https://github.com/ConsenSys/quorum-aws) - Tools to deploy Quorum networks to AWS using Docker and Terraform
 - [Azure Blockchain Service](https://docs.microsoft.com/en-us/azure/blockchain/service/develop) - create consortium blockchain networks to enable enterprise scenarios like asset tracking, digital token, loyalty and reward, supply chain financial, and provenance.
 - [SAP Cloud Platform](https://blogs.sap.com/2019/01/11/quorum-on-sap-cloud-platform/) - now offers a free-of-charge “dev” service plan for developers to build with Quorum in a playground environment. The plan offers Quorum instances that are shared with other developers.
