@@ -87,6 +87,8 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Quorum-Splunk](https://www.splunk.com/en_us/blog/it/introducing-splunk-app-for-quorum.html) - Using Splunk for quorum blockchain analytics and dashboards
 - [Mirror Besu](https://www.npmjs.com/package/mirror-besu) - compiling, testing and deployment for Hyperledger Besu, aiming to make life as an Enterprise Ethereum developer easier.
 - [Ethernal](https://tryethernal.com/) - Block explorer for private EVM-based chains.
+- [Quorum-toolbox](https://github.com/chainstack/quorum-toolbox) - Tools and scripts for Quorum configuration.
+- [Web3Quorum](https://github.com/chainstack/web3quorum) - A web3py extension that supports Quorum APIs: Raft and Istanbul.
 
 ### Testing
 
@@ -185,6 +187,8 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Quorum Workshop - Blockmatics](https://blockmatics.teachable.com/p/quorum-blockchain-developer-course)
 - [Blockgeeks Guide: Overview of GoQuorum](https://blockgeeks.com/guides/quorum-a-blockchain-platform-for-the-enterprise/)
 - [B9Lab - Quorum Specialization Course](https://academy.b9lab.com/courses/course-v1:B9lab+QSE-X+2018-04/about)
+- [Picking an enterprise blockchain protocol to develop on: Quorum, Vyper & Solidity](https://chainstack.com/picking-an-enterprise-protocol-to-develop-on-quorum/)
+- [Food supply temperature control with Web3 on Quorum](https://docs.chainstack.com/tutorials/quorum/food-supply-temperature-control-with-web3)
 
 ### Articles
 
