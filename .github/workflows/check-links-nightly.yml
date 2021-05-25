@@ -1,0 +1,17 @@
+name: Check links in Markdown files every week
+
+on:
+  schedule:
+    - cron: "0 8 * * 0" # once a week every sunday at 8am
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          config-file: '.github/workflows/mlc_config.json'
+          base-branch: 'main'
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'yes'
