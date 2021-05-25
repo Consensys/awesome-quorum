@@ -72,6 +72,8 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [web3j-quorum](https://github.com/web3j/web3j-quorum) - An extension to web3j providing support for Quorum APIs
 - [Truffle with Quorum](https://www.trufflesuite.com/docs/truffle/distributed-ledger-support/working-with-quorum) - Truffle supports development with Quorum, a version of Ethereum that adds new features on top of what Ethereum already provides
 - [Nethereum](https://docs.nethereum.com/en/latest/ethereum-and-clients/quorum/) - Nethereum is the .Net integration library for Ethereum, simplifying smart contract management and interaction with Ethereum nodes whether they are public, like Geth , Parity or private, like Quorum and Besu.
+- [Quorum-toolbox](https://github.com/chainstack/quorum-toolbox) - Tools and scripts for Quorum configuration.
+- [Web3Quorum](https://github.com/chainstack/web3quorum) - A web3py extension that supports Quorum APIs: Raft and Istanbul.
 
 ### Interoperability 
 - [Cordage](https://github.com/LayerXcom/cordage) - Cordage makes the interoperability possible from Corda to Quorum and Hyperledger Besu by providing several modules that propagate, pull and verify information between Blockchains without further trusted third party.
@@ -87,8 +89,6 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Quorum-Splunk](https://www.splunk.com/en_us/blog/it/introducing-splunk-app-for-quorum.html) - Using Splunk for quorum blockchain analytics and dashboards
 - [Mirror Besu](https://www.npmjs.com/package/mirror-besu) - compiling, testing and deployment for Hyperledger Besu, aiming to make life as an Enterprise Ethereum developer easier.
 - [Ethernal](https://tryethernal.com/) - Block explorer for private EVM-based chains.
-- [Quorum-toolbox](https://github.com/chainstack/quorum-toolbox) - Tools and scripts for Quorum configuration.
-- [Web3Quorum](https://github.com/chainstack/web3quorum) - A web3py extension that supports Quorum APIs: Raft and Istanbul.
 
 ### Testing
 
