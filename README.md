@@ -6,7 +6,7 @@ A curated list of awesome softwares, libraries, tools, articles, educational res
 
 ConsenSys Quorum is a foundational open-source protocol layer that enables Enterprise Ethereum blockchain. It provides an extensive set of software components such as Enterprise Ethereum clients, private transactions managers, private key managers, plugins, libraries... to build decentralized platforms. ConsenSys Quorum is maintained by both engineering teams at [ConsenSys](https://consensys.net/) and the open-source community :heart:
 
-Contributions to this list are wery welcome :dolphin: You can add links through [pull requests](https://github.com/ConsenSys/awesome-quorum/pulls) or create an [issue](https://github.com/ConsenSys/awesome-quorum/issues). Please take a look at the [contribution guidelines](CONTRIBUTING.md).
+Contributions to this list are wery welcome :dolphin: You can add links through [pull requests](https://github.com/ConsenSys/awesome-quorum/pulls) or create an [issue](https://github.com/ConsenSys/awesome-quorum/issues).
 
 ## Contents
 
