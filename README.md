@@ -6,7 +6,7 @@ A curated list of awesome softwares, libraries, tools, articles, educational res
 
 ConsenSys Quorum is a foundational open-source protocol layer that enables Enterprise Ethereum blockchain. It provides an extensive set of software components such as Enterprise Ethereum clients, private transactions managers, private key managers, plugins, libraries... to build decentralized platforms. ConsenSys Quorum is maintained by both engineering teams at [ConsenSys](https://consensys.net/) and the open-source community :heart:
 
-Contributions to this list are wery welcome :dolphin: You can add links through [pull requests](https://github.com/ConsenSys/awesome-quorum/pulls) or create an [issue](https://github.com/ConsenSys/awesome-quorum/issues). Please take a look at the [contribution guidelines](CONTRIBUTING.md).
+Contributions to this list are wery welcome :dolphin: You can add links through [pull requests](https://github.com/ConsenSys/awesome-quorum/pulls) or create an [issue](https://github.com/ConsenSys/awesome-quorum/issues).
 
 ## Contents
 
@@ -206,4 +206,22 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Quorum Features on Chainstack Demo](https://youtu.be/QPtqk3yPQK8)
 - [Splunking with Quorum](https://youtu.be/Fo2qaEn1_BQ)
 
-### Use-Cases
+### Built on Quorum
+
+- [7nodes](https://github.com/ConsenSys/quorum-examples/tree/master/examples/7nodes) - Starts up a fully-functioning
+  GoQuorum environment consisting of 7 independent nodes.
+  Demonstrates consensus, privacy, and all the expected functionality of an Ethereum platform.
+- [web3j token sample](https://github.com/blk-io/quorum-sample) - Demonstrates the creation and management of a private
+  token on a GoQuorum network.
+  Written in Java using web3j which is maintained by Web3 Labs.
+- [Pons bridge](https://github.com/M-Bowe/pons) | [Pons-Frontend](https://github.com/M-Bowe/pons-frontend) - A sample
+  Cross-Chain Trading Bridge written to run over 2 GoQuorum Chains to safely exchange ERC-20 and ERC-721 assets.
+- [Marketplace](https://github.com/lyotam/techmarketplace) - An example application running on top of a GoQuorum network
+  which allows users to bid for and offer virtual hackathon gear for sale in an interactive marketplace.
+  Based on what was originally developed for the MLH Localhost GoQuorum workshop.
+- [ZSL proof of concept](https://github.com/ConsenSys/quorum/wiki/ZSL) - ZSL for GoQuorum enables the issuance of
+  digital assets using ZSL-enabled public smart contracts (z-contracts).
+  A combination of Tessera private contracts with z-contracts allows obligations that arise from a private contract to
+  be settled using shielded transfers of z-tokens, while maintaining full privacy and confidentiality.
+- [Anonymous Zether](https://github.com/ConsenSys/anonymous-zether/) - A private payment system; an anonymous extension
+  of Bünz, Agrawal, Zamani, and Boneh's [Zether protocol](https://crypto.stanford.edu/~buenz/papers/zether.pdf).
