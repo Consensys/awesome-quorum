@@ -72,6 +72,8 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [web3j-quorum](https://github.com/web3j/web3j-quorum) - An extension to web3j providing support for Quorum APIs
 - [Truffle with Quorum](https://www.trufflesuite.com/docs/truffle/distributed-ledger-support/working-with-quorum) - Truffle supports development with Quorum, a version of Ethereum that adds new features on top of what Ethereum already provides
 - [Nethereum](https://docs.nethereum.com/en/latest/ethereum-and-clients/quorum/) - Nethereum is the .Net integration library for Ethereum, simplifying smart contract management and interaction with Ethereum nodes whether they are public, like Geth , Parity or private, like Quorum and Besu.
+- [Quorum-toolbox](https://github.com/chainstack/quorum-toolbox) - Tools and scripts for Quorum configuration.
+- [Web3Quorum](https://github.com/chainstack/web3quorum) - A web3py extension that supports Quorum APIs: Raft and Istanbul.
 
 ### Interoperability 
 - [Cordage](https://github.com/LayerXcom/cordage) - Cordage makes the interoperability possible from Corda to Quorum and Hyperledger Besu by providing several modules that propagate, pull and verify information between Blockchains without further trusted third party.
@@ -185,6 +187,8 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Quorum Workshop - Blockmatics](https://blockmatics.teachable.com/p/quorum-blockchain-developer-course)
 - [Blockgeeks Guide: Overview of GoQuorum](https://blockgeeks.com/guides/quorum-a-blockchain-platform-for-the-enterprise/)
 - [B9Lab - Quorum Specialization Course](https://academy.b9lab.com/courses/course-v1:B9lab+QSE-X+2018-04/about)
+- [Picking an enterprise blockchain protocol to develop on: Quorum, Vyper & Solidity](https://chainstack.com/picking-an-enterprise-protocol-to-develop-on-quorum/)
+- [Food supply temperature control with Web3 on Quorum](https://docs.chainstack.com/tutorials/quorum/food-supply-temperature-control-with-web3)
 
 ### Articles
 
