@@ -89,6 +89,8 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Quorum-Splunk](https://www.splunk.com/en_us/blog/it/introducing-splunk-app-for-quorum.html) - Using Splunk for quorum blockchain analytics and dashboards
 - [Mirror Besu](https://www.npmjs.com/package/mirror-besu) - compiling, testing and deployment for Hyperledger Besu, aiming to make life as an Enterprise Ethereum developer easier.
 - [Ethernal](https://tryethernal.com/) - Block explorer for private EVM-based chains.
+- [Apache Tuweni](https://tuweni.apache.org) - JSON-RPC proxy, faucet, scraper, network crawler for Ethereum.
+- [Splunk Connect for Ethereum](https://github.com/splunk/splunk-connect-for-ethereum) - a connector to ingest blockchain data to Splunk.
 
 ### Testing
 
@@ -138,6 +140,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Tessera docs](https://docs.tessera.consensys.net)
 - [EthSigner docs](https://docs.ethsigner.consensys.net)
 - [Orchestrate docs](https://docs.orchestrate.consensys.net)
+- [Splunk DLT docs](https://splunkdlt.com)
 
 ### Specifications
 
@@ -165,8 +168,8 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Chats
 
 - [Discord](https://bit.ly/ConsenSysQuorumDiscord)
-  - [Slack - GoQuorum](https://inviter.quorum.consensys.net/)
-  - [Rocketchat - Hyperledger Besu](http://chat.hyperledger.org/)
+- [Slack - GoQuorum](https://inviter.quorum.consensys.net/)
+- [Rocketchat - Hyperledger Besu](http://chat.hyperledger.org/)
 
 ### Events
 - [ConsenSys Quorum Event Calendar]
@@ -199,6 +202,8 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [ConsenSys Quorum is moving to Calendar Versioning](https://consensys.net/blog/news/consensys-quorum-is-moving-to-calendar-versioning/)
 - [ConsenSys acquires JPM Quorum](https://consensys.net/blog/news/consensys-acquires-jpm-quorum/)
 - [EEA Testnet launch](https://consensys.net/blog/enterprise-blockchain/what-the-eea-testnet-launch-means-for-blockchain-and-enterprise/)
+- [Hyperledger Besu is an observability pioneer](https://www.splunk.com/en_us/blog/devops/hyperledger-besu-is-an-observability-pioneer.html)
+
 
 ### Videos
 
@@ -229,3 +234,5 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
   be settled using shielded transfers of z-tokens, while maintaining full privacy and confidentiality.
 - [Anonymous Zether](https://github.com/ConsenSys/anonymous-zether/) - A private payment system; an anonymous extension
   of Bünz, Agrawal, Zamani, and Boneh's [Zether protocol](https://crypto.stanford.edu/~buenz/papers/zether.pdf).
+- [QBFT Testnet](https://github.com/entethalliance/qbft-testnet) - an Enterprise Ethereum Alliance initiative to create
+  a conformance testing framework for the QBFT consensus algorithm.
