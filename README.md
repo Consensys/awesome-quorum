@@ -49,7 +49,6 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Private Transaction Manager
 
 - [Tessera](https://github.com/ConsenSys/tessera) - Stateless Java system enabling encryption, decryption, and distribution of private transactions for Quorum
-- [Orion](https://github.com/ConsenSys/orion) - Private transaction manager developed under the Apache 2.0 license and written in Java
 
 ### Private Key Manager
 
@@ -67,8 +66,6 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Libraries
 
-- [quorumjs](https://github.com/ConsenSys/quorum.js) - Extension for web3.js which adds support for APIs specific to Quorum
-- [web3js-eea](https://github.com/ConsenSys/web3js-eea) - Extension for web3.js which adds support for Besu private transaction and privacy group management
 - [web3j-quorum](https://github.com/web3j/web3j-quorum) - An extension to web3j providing support for Quorum APIs
 - [Truffle with Quorum](https://www.trufflesuite.com/docs/truffle/distributed-ledger-support/working-with-quorum) - Truffle supports development with Quorum, a version of Ethereum that adds new features on top of what Ethereum already provides
 - [Nethereum](https://docs.nethereum.com/en/latest/ethereum-and-clients/quorum/) - Nethereum is the .Net integration library for Ethereum, simplifying smart contract management and interaction with Ethereum nodes whether they are public, like Geth , Parity or private, like Quorum and Besu.
@@ -106,9 +103,6 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Sandbox
 
 - [Quorum-Dev-Quickstart](https://github.com/ConsenSys/quorum-dev-quickstart) - Deploy up a ConsenSys Quorum network on your local machine from the command line in only a few minutes
-- [Quorum-Wizard](https://github.com/ConsenSys/quorum-wizard) - A command line tool that allow users to set up a development Quorum network on their local machine in less than 2 minutes
-- [Quorum Examples](https://github.com/ConsenSys/quorum-examples) - Setup examples to start a fully-functioning Quorum environment consisting of 7 independent nodes allowing to test consensus, privacy, and all the expected functionality of an Quorum platform
-- [Quorum Network Manager (deprecated)](https://github.com/ConsenSys/QuorumNetworkManager) - basic way for originally getting started with a quorum network
 - [Quorum Maker](https://github.com/synechron-finlabs/quorum-maker) - Synechron's Quorum Maker is a tool that allows users to create and manage Quorum network
 - [Besu Truffle Box](https://www.trufflesuite.com/boxes/besu-box) - Truffle Box Creating API Endpoints for Hyperledger Besu network.
 - [Epirus Free - Blockchain Explorer](https://github.com/web3labs/epirus-free) - This dockerized environment is designed for viewing private Quorum, Pantheon and Ethereum networks.
@@ -118,7 +112,6 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Kubernetes
 
-- [qubernetes](https://github.com/ConsenSys/qubernetes) - Generates the necessary Quorum resources (keys, configs - genesis, istanbul, etc.) and Kubernetes API resource yaml for a configurable Quorum Network
 - [Quorum Kubernetes](https://github.com/ConsenSys/quorum-kubernetes) - Example reference implementations of private networks using k8s, intended for developers and ops to get familiar with private ethereum network in k8s
 
 ### Cloud
@@ -136,7 +129,6 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 - [Besu docs](https://besu.hyperledger.org/en/stable/)
 - [GoQuorum docs](https://docs.goquorum.consensys.net)
-- [Orion docs](https://docs.orion.consensys.net)
 - [Tessera docs](https://docs.tessera.consensys.net)
 - [EthSigner docs](https://docs.ethsigner.consensys.net)
 - [Orchestrate docs](https://docs.orchestrate.consensys.net)
@@ -151,8 +143,8 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ## Contribute
 
-- [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md)
 - [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md)
+- [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md)
 
 ## Community
 
@@ -167,8 +159,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Chats
 
-- [Discord](https://bit.ly/ConsenSysQuorumDiscord)
-- [Slack - GoQuorum](https://inviter.quorum.consensys.net/)
+- [Discord](https://chat.consensys.net)
 - [Rocketchat - Hyperledger Besu](http://chat.hyperledger.org/)
 
 ### Events
@@ -186,6 +177,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Apply to be a ConsenSys Quorum Ambassador!](https://bit.ly/ConsenSysAmbassadorApp)
 
 ## Educational Resources
+- [Hyperledger Besu Essentials](https://training.linuxfoundation.org/training/hyperledger-besu-essentials-creating-a-private-blockchain-network-lfs176x/)
 - [Quorum Workshop - MLH](https://github.com/dyelax/quorum-workshop)
 - [Quorum Workshop - Blockmatics](https://blockmatics.teachable.com/p/quorum-blockchain-developer-course)
 - [Blockgeeks Guide: Overview of GoQuorum](https://blockgeeks.com/guides/quorum-a-blockchain-platform-for-the-enterprise/)
