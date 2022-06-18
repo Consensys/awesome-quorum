@@ -13,7 +13,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 - [Software components](#software-components)
   - [Enterprise Ethereum Clients](#enterprise-ethereum-client)
   - [Private Transaction Manager](#private-transaction-manager)
-  - [Private Key Mangager](#private-key-manager)
+  - [Private Key Manager](#private-key-manager)
   - [Plugins](#plugins)
   - [Libraries](#libraries)
   - [Tools](#tools)
